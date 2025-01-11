@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Entity99_Phase2.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TheGameMaster_Phase2 (Down)0000" x="50" y="50" width="577" height="1030" frameX="-1" frameY="-4" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0001" x="677" y="50" width="577" height="1030" frameX="-1" frameY="-4" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0002" x="1304" y="50" width="576" height="1032" frameX="-2" frameY="-2" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0003" x="1930" y="50" width="576" height="1032" frameX="-2" frameY="-2" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0004" x="2556" y="50" width="576" height="1034" frameX="-2" frameY="0" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0005" x="3182" y="50" width="576" height="1034" frameX="-2" frameY="0" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0006" x="3808" y="50" width="576" height="1034" frameX="-2" frameY="0" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0007" x="4434" y="50" width="576" height="1034" frameX="-2" frameY="0" frameWidth="578" frameHeight="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0008" x="5060" y="50" width="578" height="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0009" x="5688" y="50" width="578" height="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0010" x="5688" y="50" width="578" height="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0011" x="5688" y="50" width="578" height="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0012" x="5688" y="50" width="578" height="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0013" x="5688" y="50" width="578" height="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Down)0014" x="5688" y="50" width="578" height="1034"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0000" x="6316" y="50" width="673" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0001" x="7039" y="50" width="660" height="1015" frameX="0" frameY="-12" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0002" x="50" y="1134" width="665" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0003" x="50" y="1134" width="665" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0004" x="765" y="1134" width="669" height="1015" frameX="0" frameY="-12" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0005" x="765" y="1134" width="669" height="1015" frameX="0" frameY="-12" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0006" x="1484" y="1134" width="674" height="1015" frameX="0" frameY="-12" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0007" x="1484" y="1134" width="674" height="1015" frameX="0" frameY="-12" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0008" x="2208" y="1134" width="670" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0009" x="2928" y="1134" width="678" height="1026" frameX="0" frameY="-1" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0010" x="3656" y="1134" width="673" height="1024" frameX="0" frameY="-3" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0011" x="4379" y="1134" width="683" height="1017" frameX="0" frameY="-10" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0012" x="5112" y="1134" width="677" height="1017" frameX="0" frameY="-10" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0013" x="5839" y="1134" width="681" height="1027" frameX="0" frameY="0" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0014" x="6570" y="1134" width="681" height="1027" frameX="0" frameY="0" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0015" x="7301" y="1134" width="688" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0016" x="7301" y="1134" width="688" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0017" x="7301" y="1134" width="688" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0018" x="7301" y="1134" width="688" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Flirt)0019" x="7301" y="1134" width="688" height="1020" frameX="0" frameY="-7" frameWidth="688" frameHeight="1027"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0000" x="50" y="2211" width="564" height="1021" frameX="-3" frameY="-2" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0001" x="50" y="2211" width="564" height="1021" frameX="-3" frameY="-2" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0002" x="664" y="2211" width="565" height="1018" frameX="-2" frameY="-5" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0003" x="664" y="2211" width="565" height="1018" frameX="-2" frameY="-5" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0004" x="1279" y="2211" width="565" height="1018" frameX="-2" frameY="-5" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0005" x="1279" y="2211" width="565" height="1018" frameX="-2" frameY="-5" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0006" x="1894" y="2211" width="556" height="1021" frameX="-2" frameY="-2" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0007" x="1894" y="2211" width="556" height="1021" frameX="-2" frameY="-2" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0008" x="2500" y="2211" width="548" height="1023" frameX="-2" frameY="0" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0009" x="2500" y="2211" width="548" height="1023" frameX="-2" frameY="0" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0010" x="3098" y="2211" width="539" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0011" x="3687" y="2211" width="542" height="1017" frameX="-1" frameY="-6" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0012" x="4279" y="2211" width="534" height="1022" frameX="-1" frameY="-1" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0013" x="4863" y="2211" width="541" height="1022" frameX="-1" frameY="-1" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0014" x="5454" y="2211" width="540" height="1017" frameX="-1" frameY="-6" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0015" x="6044" y="2211" width="540" height="1017" frameX="-1" frameY="-6" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0016" x="6634" y="2211" width="540" height="1017" frameX="-1" frameY="-6" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0017" x="7224" y="2211" width="540" height="1018" frameX="-1" frameY="-5" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0018" x="50" y="3284" width="540" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0019" x="50" y="3284" width="540" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0020" x="50" y="3284" width="540" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0021" x="50" y="3284" width="540" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0022" x="50" y="3284" width="540" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0023" x="50" y="3284" width="540" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Idle)0024" x="50" y="3284" width="540" height="1020" frameX="-1" frameY="-3" frameWidth="567" frameHeight="1023"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0000" x="640" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0001" x="1384" y="3284" width="693" height="1021" frameX="-3" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0002" x="2127" y="3284" width="691" height="1022" frameX="-5" frameY="0" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0003" x="2868" y="3284" width="690" height="1022" frameX="-6" frameY="0" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0004" x="3608" y="3284" width="689" height="1021" frameX="-7" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0005" x="3608" y="3284" width="689" height="1021" frameX="-7" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0006" x="4347" y="3284" width="691" height="1021" frameX="-5" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0007" x="5088" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0008" x="5832" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0009" x="5832" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0010" x="5832" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0011" x="5832" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0012" x="5832" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0013" x="5832" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Left)0014" x="5832" y="3284" width="694" height="1021" frameX="-2" frameY="-1" frameWidth="697" frameHeight="1022"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0000" x="6546" y="3284" width="560" height="1030" frameX="-1" frameY="0" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0001" x="7116" y="3284" width="560" height="1030" frameX="-1" frameY="0" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0002" x="20" y="4364" width="561" height="1029" frameX="0" frameY="-1" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0003" x="591" y="4364" width="562" height="1029" frameX="0" frameY="-1" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0004" x="1163" y="4364" width="562" height="1028" frameX="0" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0005" x="1735" y="4364" width="561" height="1028" frameX="0" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0006" x="2306" y="4364" width="561" height="1028" frameX="0" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0007" x="2877" y="4364" width="560" height="1028" frameX="-1" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0008" x="3447" y="4364" width="559" height="1028" frameX="-1" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0009" x="3447" y="4364" width="559" height="1028" frameX="-1" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0010" x="3447" y="4364" width="559" height="1028" frameX="-1" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0011" x="3447" y="4364" width="559" height="1028" frameX="-1" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0012" x="3447" y="4364" width="559" height="1028" frameX="-1" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Right)0013" x="3447" y="4364" width="559" height="1028" frameX="-1" frameY="-3" frameWidth="522" frameHeight="1031"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0000" x="4046" y="4364" width="648" height="1015" frameX="-4" frameY="0" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0001" x="4744" y="4364" width="648" height="1015" frameX="-4" frameY="0" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0002" x="5442" y="4364" width="648" height="1014" frameX="-5" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0003" x="6140" y="4364" width="648" height="1014" frameX="-5" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0004" x="6838" y="4364" width="651" height="1014" frameX="-2" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0005" x="50" y="5443" width="651" height="1014" frameX="-2" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0006" x="751" y="5443" width="652" height="1014" frameX="-1" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0007" x="751" y="5443" width="652" height="1014" frameX="-1" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0008" x="1453" y="5443" width="651" height="1014" frameX="-2" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0009" x="2154" y="5443" width="652" height="1014" frameX="-1" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0010" x="2856" y="5443" width="648" height="1014" frameX="-5" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0011" x="2856" y="5443" width="648" height="1014" frameX="-5" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0012" x="2856" y="5443" width="648" height="1014" frameX="-5" frameY="-1" frameWidth="653" frameHeight="1015"/>
+	<SubTexture name="TheGameMaster_Phase2 (Up)0013" x="2856" y="5443" width="648" height="1014" frameX="-5" frameY="-1" frameWidth="653" frameHeight="1015"/>
+</TextureAtlas>

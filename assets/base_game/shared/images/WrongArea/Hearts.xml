@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hearts.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BrokenHeart0000" x="0" y="0" width="209" height="205" frameX="-37" frameY="-169" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0001" x="209" y="0" width="209" height="205" frameX="-37" frameY="-169" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0002" x="418" y="0" width="209" height="205" frameX="-37" frameY="-169" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0003" x="627" y="0" width="285" height="227" frameX="14" frameY="-139" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0004" x="912" y="0" width="377" height="279" frameX="57" frameY="-101" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0005" x="1289" y="0" width="468" height="323" frameX="102" frameY="-73" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0006" x="1757" y="0" width="542" height="366" frameX="136" frameY="-66" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0007" x="2299" y="0" width="586" height="380" frameX="145" frameY="-68" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0008" x="2885" y="0" width="622" height="408" frameX="126" frameY="-68" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0009" x="0" y="408" width="640" height="431" frameX="158" frameY="-56" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0010" x="640" y="408" width="650" height="445" frameX="161" frameY="-54" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0011" x="1290" y="408" width="656" height="457" frameX="163" frameY="-51" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0012" x="1946" y="408" width="662" height="468" frameX="165" frameY="-50" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0013" x="2608" y="408" width="664" height="470" frameX="163" frameY="-53" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0014" x="3272" y="408" width="673" height="471" frameX="165" frameY="-58" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0015" x="0" y="879" width="677" height="470" frameX="164" frameY="-62" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0016" x="0" y="879" width="677" height="470" frameX="164" frameY="-62" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0017" x="0" y="879" width="677" height="470" frameX="164" frameY="-62" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0018" x="0" y="879" width="677" height="470" frameX="164" frameY="-62" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0019" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0020" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0021" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0022" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0023" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0024" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0025" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0026" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0027" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0028" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="BrokenHeart0029" x="0" y="879" width="677" height="470" frameX="58" frameY="-151" frameWidth="678" frameHeight="482"/>
+	<SubTexture name="Heart_UpAndDown0000" x="677" y="879" width="271" height="269" frameX="-6" frameY="-288" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0001" x="948" y="879" width="269" height="266" frameX="-7" frameY="-289" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0002" x="1217" y="879" width="267" height="264" frameX="-8" frameY="-289" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0003" x="1484" y="879" width="265" height="263" frameX="-9" frameY="-288" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0004" x="1749" y="879" width="263" height="261" frameX="-10" frameY="-286" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0005" x="2012" y="879" width="261" height="259" frameX="-11" frameY="-284" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0006" x="2273" y="879" width="259" height="257" frameX="-12" frameY="-281" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0007" x="2532" y="879" width="257" height="255" frameX="-13" frameY="-277" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0008" x="2789" y="879" width="255" height="253" frameX="-14" frameY="-272" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0009" x="3044" y="879" width="253" height="250" frameX="-15" frameY="-266" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0010" x="3297" y="879" width="251" height="249" frameX="-16" frameY="-258" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0011" x="3548" y="879" width="249" height="245" frameX="-17" frameY="-249" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0012" x="3797" y="879" width="247" height="245" frameX="-18" frameY="-236" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0013" x="0" y="1349" width="245" height="243" frameX="-19" frameY="-220" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0014" x="245" y="1349" width="243" height="240" frameX="-20" frameY="-195" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0015" x="488" y="1349" width="245" height="241" frameX="-19" frameY="-119" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0016" x="733" y="1349" width="247" height="242" frameX="-18" frameY="-92" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0017" x="980" y="1349" width="247" height="243" frameX="-18" frameY="-74" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0018" x="1227" y="1349" width="249" height="245" frameX="-17" frameY="-60" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0019" x="1476" y="1349" width="251" height="246" frameX="-16" frameY="-49" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0020" x="1727" y="1349" width="255" height="251" frameX="-14" frameY="-38" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0021" x="1982" y="1349" width="257" height="252" frameX="-13" frameY="-30" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0022" x="2239" y="1349" width="257" height="252" frameX="-13" frameY="-24" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0023" x="2496" y="1349" width="259" height="254" frameX="-12" frameY="-18" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0024" x="2755" y="1349" width="263" height="258" frameX="-10" frameY="-12" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0025" x="3018" y="1349" width="265" height="261" frameX="-9" frameY="-7" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0026" x="3283" y="1349" width="267" height="262" frameX="-8" frameY="-4" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0027" x="3550" y="1349" width="267" height="263" frameX="-8" frameY="-2" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0028" x="3817" y="1349" width="269" height="265" frameX="-7" frameY="0" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0029" x="1476" y="1349" width="251" height="246" frameX="-16" frameY="-9" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0030" x="0" y="1614" width="255" height="251" frameX="-14" frameY="-7" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0031" x="255" y="1614" width="257" height="253" frameX="-13" frameY="-7" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0032" x="2239" y="1349" width="257" height="252" frameX="-13" frameY="-9" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0033" x="2496" y="1349" width="259" height="254" frameX="-12" frameY="-10" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0034" x="2755" y="1349" width="263" height="258" frameX="-10" frameY="-11" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0035" x="512" y="1614" width="265" height="260" frameX="-9" frameY="-14" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0036" x="3283" y="1349" width="267" height="262" frameX="-8" frameY="-17" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0037" x="3550" y="1349" width="267" height="263" frameX="-8" frameY="-23" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0038" x="777" y="1614" width="269" height="264" frameX="-7" frameY="-29" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0039" x="1046" y="1614" width="271" height="266" frameX="-6" frameY="-36" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0040" x="1317" y="1614" width="275" height="271" frameX="-4" frameY="-43" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0041" x="1592" y="1614" width="277" height="272" frameX="-3" frameY="-54" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0042" x="1869" y="1614" width="277" height="273" frameX="-3" frameY="-68" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0043" x="2146" y="1614" width="279" height="274" frameX="-2" frameY="-88" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0044" x="2425" y="1614" width="283" height="280" frameX="0" frameY="-138" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0045" x="2708" y="1614" width="283" height="281" frameX="0" frameY="-189" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0046" x="2146" y="1614" width="279" height="274" frameX="-2" frameY="-211" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0047" x="1869" y="1614" width="277" height="273" frameX="-3" frameY="-227" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0048" x="2991" y="1614" width="275" height="272" frameX="-4" frameY="-240" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0049" x="3266" y="1614" width="273" height="271" frameX="-5" frameY="-250" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0050" x="3539" y="1614" width="271" height="269" frameX="-6" frameY="-259" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0051" x="3810" y="1614" width="269" height="266" frameX="-7" frameY="-267" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0052" x="1217" y="879" width="267" height="264" frameX="-8" frameY="-273" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0053" x="1484" y="879" width="265" height="263" frameX="-9" frameY="-279" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0054" x="1749" y="879" width="263" height="261" frameX="-10" frameY="-284" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0055" x="2012" y="879" width="261" height="259" frameX="-11" frameY="-288" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0056" x="2273" y="879" width="259" height="257" frameX="-12" frameY="-291" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0057" x="0" y="1895" width="257" height="254" frameX="-13" frameY="-294" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0058" x="257" y="1895" width="255" height="252" frameX="-14" frameY="-296" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="Heart_UpAndDown0059" x="677" y="879" width="271" height="269" frameX="-6" frameY="-288" frameWidth="283" frameHeight="557"/>
+	<SubTexture name="StartHeart0000" x="512" y="1895" width="139" height="139" frameX="-132" frameY="-128" frameWidth="403" frameHeight="396"/>
+	<SubTexture name="StartHeart0001" x="651" y="1895" width="185" height="182" frameX="-109" frameY="-107" frameWidth="403" frameHeight="396"/>
+	<SubTexture name="StartHeart0002" x="836" y="1895" width="228" height="224" frameX="-88" frameY="-86" frameWidth="403" frameHeight="396"/>
+	<SubTexture name="StartHeart0003" x="1064" y="1895" width="271" height="267" frameX="-66" frameY="-64" frameWidth="403" frameHeight="396"/>
+	<SubTexture name="StartHeart0004" x="1335" y="1895" width="315" height="309" frameX="-44" frameY="-43" frameWidth="403" frameHeight="396"/>
+	<SubTexture name="StartHeart0005" x="1650" y="1895" width="359" height="353" frameX="-22" frameY="-21" frameWidth="403" frameHeight="396"/>
+	<SubTexture name="StartHeart0006" x="2009" y="1895" width="403" height="396"/>
+	<SubTexture name="StartHeart0007" x="2412" y="1895" width="403" height="396"/>
+	<SubTexture name="StartHeart0008" x="2815" y="1895" width="403" height="396"/>
+	<SubTexture name="StartHeart0009" x="3218" y="1895" width="403" height="396"/>
+	<SubTexture name="StartHeart0010" x="3621" y="1895" width="403" height="396"/>
+	<SubTexture name="StartHeart0011" x="0" y="2291" width="403" height="396"/>
+</TextureAtlas>

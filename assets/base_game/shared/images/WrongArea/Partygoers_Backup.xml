@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Partygoers.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Partygoer_Down0000" x="10" y="10" width="658" height="624"/>
+	<SubTexture name="Partygoer_Down0001" x="678" y="10" width="652" height="624" frameX="-6" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0002" x="1340" y="10" width="645" height="624" frameX="-13" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0003" x="1995" y="10" width="637" height="624" frameX="-21" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0004" x="2642" y="10" width="628" height="624" frameX="-30" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0005" x="3280" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0006" x="3913" y="10" width="621" height="624" frameX="-37" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0007" x="4544" y="10" width="622" height="624" frameX="-36" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0008" x="5176" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0009" x="5809" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0010" x="5809" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0011" x="5809" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0012" x="5809" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0013" x="5809" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0014" x="5809" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Down0015" x="5809" y="10" width="623" height="624" frameX="-35" frameY="0" frameWidth="658" frameHeight="624"/>
+	<SubTexture name="Partygoer_Idle0000" x="6442" y="10" width="655" height="758" frameX="-12" frameY="-44" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0001" x="7107" y="10" width="653" height="760" frameX="-15" frameY="-41" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0002" x="10" y="780" width="657" height="765" frameX="-12" frameY="-36" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0003" x="10" y="780" width="657" height="765" frameX="-12" frameY="-36" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0004" x="677" y="780" width="656" height="771" frameX="-14" frameY="-29" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0005" x="1343" y="780" width="660" height="780" frameX="-11" frameY="-20" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0006" x="2013" y="780" width="663" height="786" frameX="-9" frameY="-14" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0007" x="2013" y="780" width="663" height="786" frameX="-9" frameY="-14" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0008" x="2686" y="780" width="667" height="790" frameX="-6" frameY="-10" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0009" x="3363" y="780" width="670" height="793" frameX="-4" frameY="-7" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0010" x="4043" y="780" width="671" height="795" frameX="-3" frameY="-5" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0011" x="4724" y="780" width="673" height="798" frameX="-1" frameY="-2" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0012" x="5407" y="780" width="674" height="800" frameX="0" frameY="0" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Idle0013" x="5407" y="780" width="674" height="800" frameX="0" frameY="0" frameWidth="674" frameHeight="802"/>
+	<SubTexture name="Partygoer_Left0000" x="6091" y="780" width="730" height="767" frameX="-7" frameY="-1" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0001" x="6831" y="780" width="734" height="765" frameX="-3" frameY="-3" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0002" x="10" y="1590" width="731" height="762" frameX="-3" frameY="-6" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0003" x="751" y="1590" width="733" height="760" frameX="-1" frameY="-8" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0004" x="1494" y="1590" width="734" height="759" frameX="0" frameY="-9" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0005" x="2238" y="1590" width="730" height="759" frameX="-4" frameY="-9" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0006" x="2978" y="1590" width="723" height="761" frameX="-11" frameY="-7" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0007" x="3711" y="1590" width="716" height="763" frameX="-18" frameY="-5" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0008" x="4437" y="1590" width="713" height="765" frameX="-21" frameY="-3" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0009" x="5160" y="1590" width="711" height="766" frameX="-23" frameY="-2" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0010" x="5881" y="1590" width="711" height="767" frameX="-23" frameY="-1" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0011" x="6602" y="1590" width="709" height="768" frameX="-25" frameY="0" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0012" x="6602" y="1590" width="709" height="768" frameX="-25" frameY="0" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0013" x="6602" y="1590" width="709" height="768" frameX="-25" frameY="0" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0014" x="6602" y="1590" width="709" height="768" frameX="-25" frameY="0" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Left0015" x="6602" y="1590" width="709" height="768" frameX="-25" frameY="0" frameWidth="737" frameHeight="768"/>
+	<SubTexture name="Partygoer_Right0000" x="7321" y="1590" width="626" height="687" frameX="-28" frameY="-28" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0001" x="10" y="2368" width="627" height="690" frameX="-27" frameY="-25" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0002" x="647" y="2368" width="627" height="696" frameX="-25" frameY="-19" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0003" x="1284" y="2368" width="629" height="699" frameX="-23" frameY="-16" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0004" x="1923" y="2368" width="634" height="702" frameX="-18" frameY="-13" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0005" x="2567" y="2368" width="638" height="708" frameX="-14" frameY="-7" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0006" x="3215" y="2368" width="644" height="710" frameX="-8" frameY="-5" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0007" x="3869" y="2368" width="648" height="712" frameX="-4" frameY="-3" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0008" x="4527" y="2368" width="650" height="713" frameX="-2" frameY="-2" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0009" x="5187" y="2368" width="652" height="715" frameX="0" frameY="0" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0010" x="5187" y="2368" width="652" height="715" frameX="0" frameY="0" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0011" x="5187" y="2368" width="652" height="715" frameX="0" frameY="0" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0012" x="5187" y="2368" width="652" height="715" frameX="0" frameY="0" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0013" x="5187" y="2368" width="652" height="715" frameX="0" frameY="0" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0014" x="5187" y="2368" width="652" height="715" frameX="0" frameY="0" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Right0015" x="5187" y="2368" width="652" height="715" frameX="0" frameY="0" frameWidth="654" frameHeight="715"/>
+	<SubTexture name="Partygoer_Up0000" x="5849" y="2368" width="606" height="711" frameX="-38" frameY="-32" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0001" x="6465" y="2368" width="614" height="718" frameX="-30" frameY="-25" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0002" x="7089" y="2368" width="619" height="724" frameX="-25" frameY="-19" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0003" x="10" y="3102" width="625" height="728" frameX="-19" frameY="-15" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0004" x="645" y="3102" width="629" height="733" frameX="-16" frameY="-10" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0005" x="1284" y="3102" width="631" height="736" frameX="-14" frameY="-7" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0006" x="1925" y="3102" width="636" height="738" frameX="-9" frameY="-5" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0007" x="2571" y="3102" width="639" height="740" frameX="-6" frameY="-3" frameWidth="645" frameHeight="743"/>
+	<SubTexture name="Partygoer_Up0008" x="3220" y="3102" width="645" height="743"/>
+	<SubTexture name="Partygoer_Up0009" x="3220" y="3102" width="645" height="743"/>
+	<SubTexture name="Partygoer_Up0010" x="3220" y="3102" width="645" height="743"/>
+	<SubTexture name="Partygoer_Up0011" x="3220" y="3102" width="645" height="743"/>
+	<SubTexture name="Partygoer_Up0012" x="3220" y="3102" width="645" height="743"/>
+	<SubTexture name="Partygoer_Up0013" x="3220" y="3102" width="645" height="743"/>
+	<SubTexture name="Partygoer_Up0014" x="3220" y="3102" width="645" height="743"/>
+	<SubTexture name="Partygoer_Up0015" x="3220" y="3102" width="645" height="743"/>
+</TextureAtlas>
