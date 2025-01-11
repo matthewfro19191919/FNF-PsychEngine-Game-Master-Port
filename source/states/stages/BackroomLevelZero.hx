@@ -1,6 +1,7 @@
 package states.stages;
 
 import states.stages.objects.*;
+import backend.Song;
 
 class BackroomLevelZero extends BaseStage
 {
@@ -52,6 +53,30 @@ class BackroomLevelZero extends BaseStage
 	var stayAliveDebug:Bool = false;
 	var AwarenessBFEntity:Bool = false;
 
+	var swapHealth:Bool = false;
+	var swapHealthActive:Bool = false;
+	var bleedHealth:Bool = false;
+	var shortHealthInc:Bool = false;
+
+	var curStage:String = '';
+	var SONG:SwagSong;
+	var isStoryMode:Bool = false;
+	var storyWeek:Int = 0;
+	var storyPlaylist:Array<String> = [];
+	var storyDifficulty:Int = 1;
+	var weekSong:Int = 0;
+	var shits:Int = 0;
+	var bads:Int = 0;
+	var goods:Int = 0;
+	var sicks:Int = 0;
+
+	var songPosBG:FlxSprite;
+	var songPosBar:FlxBar;
+
+	var rep:Replay;
+	var loadRep:Bool = false;
+
+	var halloweenLevel:Bool = false;
 	override function create()
 	{
 			var behindLevel0 :FlxSprite = new FlxSprite(60, 125).loadGraphic(Paths.image('WrongArea/TheBackroomLevel0_Background3'));
