@@ -73,7 +73,6 @@ class TheGamingHall extends BaseStage
 	var songPosBG:FlxSprite;
 	var songPosBar:FlxBar;
 
-	var rep:Replay;
 	var loadRep:Bool = false;
 
 	var halloweenLevel:Bool = false;
