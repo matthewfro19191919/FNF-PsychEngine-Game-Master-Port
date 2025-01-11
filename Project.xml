@@ -185,5 +185,5 @@
 	<haxeflag name="--macro" value="include('my.pack')" />
 
 	<!-- _________________________________ Custom _______________________________ -->	
-	<icon path="art/icons/dave.png" />	
+	<icon path="art/gameicon.png" />	
 </project>
