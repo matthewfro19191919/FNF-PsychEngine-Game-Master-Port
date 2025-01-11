@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [249, 132],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "TheGameMaster_Phase1 (Left)",
+			"indices": []
+		},
+		{
+			"offsets": [59, 125],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "TheGameMaster_Phase1 (Down)",
+			"indices": []
+		},
+		{
+			"offsets": [220, 110],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 30,
+			"name": "TheGameMaster_Phase1 (Up)",
+			"indices": []
+		},
+		{
+			"offsets": [52, 142],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "TheGameMaster_Phase1 (Right)",
+			"indices": []
+		},
+		{
+			"offsets": [250, 140],
+			"loop": false,
+			"anim": "idle",
+			"fps": 30,
+			"name": "TheGameMaster_Phase1 (Idle)",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "WrongArea/Entity99_Phase1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gm",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
