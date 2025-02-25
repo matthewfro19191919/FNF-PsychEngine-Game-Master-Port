@@ -60,7 +60,6 @@ class BackroomLevelZero extends BaseStage
 
 	var curStage:String = '';
 	var SONG:SwagSong;
-	var isStoryMode:Bool = false;
 	var storyWeek:Int = 0;
 	var storyPlaylist:Array<String> = [];
 	var storyDifficulty:Int = 1;
