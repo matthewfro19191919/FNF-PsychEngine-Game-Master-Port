@@ -521,6 +521,8 @@ class TheGamingHall extends BaseStage
 			badLuckSymbols.y = 580;
 		}
 	}
+
+	var iconsAnimations:Bool = true;
 	function set_health(value:Float):Float // You can alter how icon animations work here
 	{
 		value = FlxMath.roundDecimal(value, 5); //Fix Float imprecision
