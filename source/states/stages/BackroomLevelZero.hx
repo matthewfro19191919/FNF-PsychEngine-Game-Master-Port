@@ -3,6 +3,7 @@ package states.stages;
 import states.stages.objects.*;
 import backend.Song;
 import flixel.ui.FlxBar;
+import objects.Bar;
 
 class BackroomLevelZero extends BaseStage
 {
@@ -76,6 +77,9 @@ class BackroomLevelZero extends BaseStage
 	var loadRep:Bool = false;
 
 	var halloweenLevel:Bool = false;
+
+	public var healthBar:Bar;
+
 	override function create()
 	{
 			var behindLevel0 :FlxSprite = new FlxSprite(60, 125).loadGraphic(Paths.image('WrongArea/TheBackroomLevel0_Background3'));
