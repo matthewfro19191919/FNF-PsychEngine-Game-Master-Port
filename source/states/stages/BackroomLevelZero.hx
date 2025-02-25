@@ -80,6 +80,10 @@ class BackroomLevelZero extends BaseStage
 
 	public var healthBar:Bar;
 
+	public function randomRangeFloat(min:Float, max:Float):Float {
+		return Math.floor(Math.random() * (1 + max - min)) + min;
+	}
+
 	override function create()
 	{
 			var behindLevel0 :FlxSprite = new FlxSprite(60, 125).loadGraphic(Paths.image('WrongArea/TheBackroomLevel0_Background3'));
