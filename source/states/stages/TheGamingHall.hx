@@ -89,6 +89,13 @@ class TheGamingHall extends BaseStage
 
 	private var glitchCover:FlxTypedGroup<FlxSprite>;
 
+	public var strumLineNotes:FlxTypedGroup<StrumNote> = new FlxTypedGroup<StrumNote>();
+	public var opponentStrums:FlxTypedGroup<StrumNote> = new FlxTypedGroup<StrumNote>();
+	public var playerStrums:FlxTypedGroup<StrumNote> = new FlxTypedGroup<StrumNote>();
+	public var grpNoteSplashes:FlxTypedGroup<NoteSplash> = new FlxTypedGroup<NoteSplash>();
+
+	public var scoreTxt:FlxText;
+
 	public function randomRangeFloat(min:Float, max:Float):Float {
 		return Math.floor(Math.random() * (1 + max - min)) + min;
 	}
@@ -327,7 +334,7 @@ class TheGamingHall extends BaseStage
 		{
 			strumLineNotes.visible = true;
 			healthBar.visible = true;
-			healthBarBG.visible = true;
+			healthBar.visible = true;
 			iconP1.visible = true;
 			iconP2.visible = true;
 			scoreTxt.visible = true;
@@ -340,7 +347,7 @@ class TheGamingHall extends BaseStage
 		{
 			strumLineNotes.visible = false;
 			healthBar.visible = false;
-			healthBarBG.visible = false;
+			healthBar.visible = false;
 			iconP1.visible = false;
 			iconP2.visible = false;
 			scoreTxt.visible = false;
