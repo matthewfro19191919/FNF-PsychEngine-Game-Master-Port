@@ -4,6 +4,7 @@ import states.stages.objects.*;
 import backend.Song;
 import flixel.ui.FlxBar;
 import objects.Bar;
+import objects.HealthIcon;
 
 class BackroomLevelZero extends BaseStage
 {
