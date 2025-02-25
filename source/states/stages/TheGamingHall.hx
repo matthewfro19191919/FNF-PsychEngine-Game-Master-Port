@@ -3,6 +3,7 @@ package states.stages;
 import states.stages.objects.*;
 import backend.Song;
 import flixel.ui.FlxBar;
+import motion.Actuate;
 
 class TheGamingHall extends BaseStage
 {
@@ -77,6 +78,19 @@ class TheGamingHall extends BaseStage
 
 	var halloweenLevel:Bool = false;
 
+	public var healthBar:Bar;
+
+	public var health(default, set):Float = 1;
+
+	public var iconP1:HealthIcon;
+	public var iconP2:HealthIcon;
+
+	private var glitchCover:FlxTypedGroup<FlxSprite>;
+
+	public function randomRangeFloat(min:Float, max:Float):Float {
+		return Math.floor(Math.random() * (1 + max - min)) + min;
+	}
+	
 	override function create()
 	{
 			var behindGaming:FlxSprite = new FlxSprite(50, 85).loadGraphic(Paths.image('WrongArea/TheGamingHall_Background_Behind'));
