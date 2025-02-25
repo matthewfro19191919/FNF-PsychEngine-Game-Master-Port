@@ -91,7 +91,7 @@ class TheGamingHall extends BaseStage
 	public function randomRangeFloat(min:Float, max:Float):Float {
 		return Math.floor(Math.random() * (1 + max - min)) + min;
 	}
-	
+
 	override function create()
 	{
 			var behindGaming:FlxSprite = new FlxSprite(50, 85).loadGraphic(Paths.image('WrongArea/TheGamingHall_Background_Behind'));
