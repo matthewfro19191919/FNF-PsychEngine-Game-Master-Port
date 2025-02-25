@@ -4,6 +4,7 @@ import states.stages.objects.*;
 import backend.Song;
 import flixel.ui.FlxBar;
 import motion.Actuate;
+import objects.Bar;
 
 class TheGamingHall extends BaseStage
 {
